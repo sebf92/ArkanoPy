@@ -1,0 +1,510 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "levels/level3.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled",
+        "levels"
+    ],
+    "file.lastUsedOpenFilter": "Projets Tiled (*.tiled-project)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 723,
+                "y": 220.66666666666669
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#Animated Tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#background": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#boo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#ground1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#ground2": {
+            "scaleInDock": 2
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#mario": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#nuages": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#pieu": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#pipe": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#tortue": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#tree1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#tree2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/level1.tmx#water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 290,
+                "y": 160.66666666666669
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#background": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#ground1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#ground2": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#nuages": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#tree1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#tree2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/test.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1144.75,
+                "y": 1189.25
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/tileset2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "levels/level.tmx": {
+            "scale": 1.7891666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 293.71215649743834,
+                "y": 239.21751280857015
+            }
+        },
+        "levels/level.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level1.tmx": {
+            "scale": 1.5055803571428572,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 322.4670126019273,
+                "y": 227.8191252779837
+            }
+        },
+        "levels/level1.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level10.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 293.7279629391327,
+                "y": 228.8714451164586
+            }
+        },
+        "levels/level10.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level11.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level11.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level12.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level12.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level13.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level13.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level14.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level14.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level15.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level15.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level16.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level16.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level17.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level17.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level18.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level18.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level19.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level19.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level2.tmx": {
+            "scale": 1.5055803571428572,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 307.8547071905114,
+                "y": 228.4833209785026
+            }
+        },
+        "levels/level2.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level20.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level20.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level21.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level21.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level22.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level22.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level23.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level23.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level24.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 294.8809677004246,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level24.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level25.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 293.7279629391327,
+                "y": 228.8714451164586
+            }
+        },
+        "levels/level25.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level26.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 294.8809677004246,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level26.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level27.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 294.8809677004246,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level27.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level28.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 294.8809677004246,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level28.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level29.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 315.05855102303434,
+                "y": 228.87144511645863
+            }
+        },
+        "levels/level29.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level3.tmx": {
+            "scale": 1.5055803571428572,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 293.9065974796145,
+                "y": 228.48332097850258
+            }
+        },
+        "levels/level3.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level30.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level30.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level31.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 367.66666666666663,
+                "y": 214.66666666666669
+            }
+        },
+        "levels/level31.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level32.tmx": {
+            "scale": 1.7891666666666666,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 294.27107591988823,
+                "y": 240.33535165346998
+            }
+        },
+        "levels/level32.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level4.tmx": {
+            "scale": 1.5055803571428572,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 293.9065974796145,
+                "y": 228.48332097850258
+            }
+        },
+        "levels/level4.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level5.tmx": {
+            "scale": 1.5055803571428572,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 293.9065974796145,
+                "y": 228.48332097850258
+            }
+        },
+        "levels/level5.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level6.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 293.66666666666663,
+                "y": 228.66666666666666
+            }
+        },
+        "levels/level6.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level7.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level7.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level8.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 239.82499034873243
+            }
+        },
+        "levels/level8.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "levels/level9.tmx": {
+            "scale": 1.7345982142857144,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 294.30446531977867,
+                "y": 240.40149272937842
+            }
+        },
+        "levels/level9.tmx#sprites": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/MarioPy/levels/Sprites",
+    "map.height": 54,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 512,
+    "openFiles": [
+        "levels/level.tmx",
+        "levels/level25.tmx",
+        "levels/level3.tmx",
+        "levels/level4.tmx",
+        "levels/level6.tmx",
+        "levels/level5.tmx",
+        "levels/level10.tmx"
+    ],
+    "project": "arkanopy.tiled-project",
+    "recentFiles": [
+        "levels/level.tmx",
+        "levels/level25.tmx",
+        "levels/level10.tmx",
+        "levels/level5.tmx",
+        "levels/level6.tmx",
+        "levels/level4.tmx",
+        "levels/level3.tmx",
+        "levels/level1.tmx",
+        "levels/level31.tmx",
+        "levels/level24.tmx",
+        "levels/level26.tmx",
+        "levels/level27.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 16
+    }
+}
