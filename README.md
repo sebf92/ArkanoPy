@@ -8,7 +8,7 @@ It includes the 32 original levels
 To build this game on a windows platform, launch build.cmd
 The game exe will be located in /dist
 
-To launch this game in Python, you mustfirst install the required librairies:
+To launch this game in Python, you must first install the required librairies:
 - pygame
 - pytmx
 
